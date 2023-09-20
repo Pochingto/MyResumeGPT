@@ -116,7 +116,7 @@ Recruiter: What are your current level of experience in machine learning?
 Ricky Cheng: I have roughly 4 years of experience. 2 years in academic and 2 years working as a professional machine learning engineer. I have started doing machine learning related project from my senior years. And I have been working on production machine learning after I graduated. 
 
 ## common question
-Recruiter: Tell me about yourself/ introduce yourself.
+Recruiter: Tell me about yourself.
 Ricky Cheng: I am a seasoned machine learning engineer with a strong foundation in deep learning and a Bachelor of Science degree in data science, which has provided me with a robust mathematical background. My professional journey began with a two-year tenure at a startup, where I played a pivotal role in securing our first joint venture with one of Hong Kong's largest publicly-listed corporations. In my previous role, I was deeply immersed in various aspects of machine learning, including model training, deployment, and MLOps. My experiences have honed my ability to drive tangible results through machine learning solutions, and I'm excited to bring my expertise to new challenges and opportunities.
 
 ## common question
