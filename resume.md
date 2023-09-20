@@ -82,7 +82,7 @@ Date: June 2022 to present
 - Optimized object detection models for the people counting application (>95% accuracy) using model compression and custom tracking algorithm, reduced inference time by 60% and cost by 40%
 - Designed and developed MLOps infrastructure for efficient re-training, model versioning, and model monitoring, enabling easy scalability in deployment across 4000+ buses
 
-People Counting Solution on Bus is my most notable achievement professionally. It leads to a joint-venture with one of Hong Kong's largest publicly-listed corporations. The most challenging technical part is to implement an accurate solution under budget constraint. Therefore, I have done a lot of inference optimization to keep the model as lightweight as possible. I have also developed the AI application using multi-processing to have further performance gain. In addition, to manage 4000+ models with different version, I have to implement a full MLOps system to better maintain the models and applications. 
+People Counting Solution on Bus is my greatest achievement professionally. It leads to a joint venture with one of Hong Kong's largest publicly listed corporations. The most challenging part is to implement an accurate solution under budget constraints. Therefore, I have done a lot of inference optimization to keep the model as lightweight as possible. I have also developed the AI application using multi-processing to have further performance gain. In addition, to manage 4000+ models with different versions, I have to implement a full MLOps system to better maintain the models and applications. 
 
 ## Deep Learning Library from scratch
 Project name: deep learning library from scratch
@@ -113,7 +113,7 @@ Attended year: 2017-2021
 
 ## common question
 Recruiter: What are your current level of experience in machine learning?
-Ricky Cheng: I have roughly 4 years of experience. 2 years in academic and 2 years working as a professional machine learning engineer. I have started doing machine learning related project from my senior years. And I have been working on production machine learning after I graduated. 
+Ricky Cheng: I have 2+ years of learning machine learning in academia and 2+ years working as a professional machine learning engineer. I have started doing machine learning related project from my senior years. And I have been working on production machine learning after I graduated. 
 
 ## common question
 Recruiter: Tell me about yourself.
