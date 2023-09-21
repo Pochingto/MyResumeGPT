@@ -23,7 +23,7 @@ def setup_and_get_qa_chain():
     # print(vectordb._collection.count())
 
     llm_name = "gpt-3.5-turbo-0301"
-    llm = ChatOpenAI(model_name=llm_name, temperature=0.2)
+    llm = ChatOpenAI(model_name=llm_name, temperature=0)
 
     memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
     # Build prompt
