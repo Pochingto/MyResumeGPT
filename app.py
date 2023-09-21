@@ -64,12 +64,12 @@ if __name__ == "__main__":
         chatbot=gr.Chatbot(value=[
             [None, "You can ask anything about my experience and background!"]
         ], height=720, bubble_full_width=False),
-        textbox=gr.Textbox(value="Tell me about yourself.", label="Chat with my resume!"), #placeholder="Ask me a yes or no question", container=False, scale=7),
+        textbox=gr.Textbox(value="Tell me more about your experience and background.", label="Chat with my resume!"), #placeholder="Ask me a yes or no question", container=False, scale=7),
         title="Ricky Cheng's Resume GPT",
         description="Chat with my resume! Ask anything you want to know better about my resume.\nI've built this project using LangChain, vector database, and OpenAI API.",
         theme="default",
         examples=[
-            "Tell me about yourself.",
+            "Tell me more about your experience and background.",
             "What is your strength?",
             "What is your greatest achievement?",
             "How can I contact you?"
