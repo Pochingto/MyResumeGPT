@@ -79,4 +79,4 @@ if __name__ == "__main__":
         retry_btn=None,
         undo_btn=None,
         clear_btn="Clear",
-    ).launch(share=True)
+    ).launch()
